@@ -32,7 +32,7 @@ class Txt(object):
     SEND_SESSION_MSG = """
 ❪ SEND SESSOIN STRING ❫
 
-☛ Generate Session String form @
+☛ Generate Session String form 👉 YouTube Se Sikh Lo
 
 
 """
@@ -103,7 +103,7 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 🔆 HELP
 
 📚 Available commands:
-⏣ /start - check I'm alive 
+⏣ /start - check I'm EinsteinMassReportBot
 ⏣ /make_config - To Make Config 
 ⏣ /del_config - Delete the Config
 ⏣ /target - To see the target channel
@@ -124,7 +124,7 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 
     ABOUT_MSG = """
 - 𝖬𝗒 𝖭𝖺𝗆𝖾 : Einstein Amarjeet
-- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=@am03_2023</a>
+- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : @am03_2023
 - 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : Pyrogram
 - 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 - 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
