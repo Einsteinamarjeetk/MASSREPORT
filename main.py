@@ -22,7 +22,7 @@ class Bot (Client):
 
     def __init__(self):
         super().__init__(
-            name="ReportBot",
+            name="EinsteinReportBot",
             in_memory=True,
             api_id=Config.API_ID,
             api_hash=Config.API_HASH,
