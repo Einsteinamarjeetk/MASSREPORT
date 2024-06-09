@@ -11,7 +11,7 @@ async def handle_start(bot:Client, message:Message):
 
     Btn = [
         [InlineKeyboardButton(text='❗Hᴇʟᴘ', callback_data='help'), InlineKeyboardButton(text='🌀Sᴇʀᴠᴇʀ Sᴛᴀᴛs', callback_data='server')],
-        [InlineKeyboardButton(text='🌻Uᴘᴅᴀᴛᴇs', url='https://t.me/ssc_gd_2023_set_practice_rwa'), InlineKeyboardButton(text='🌨️Aʙᴏᴜᴛ', callback_data='about')],
+        [InlineKeyboardButton(text='🌻Uᴘᴅᴀᴛᴇs', url='https://t.me/+zSWs8KroAB41NGNl'), InlineKeyboardButton(text='🌨️Aʙᴏᴜᴛ', callback_data='about')],
         [InlineKeyboardButton(text='❄️Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/am03_2023')]
         ]
 
